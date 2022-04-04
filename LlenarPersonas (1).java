@@ -6,7 +6,7 @@ import java.util.ArrayList;
    
    String nombres[] = { "Ana", "Luis", "Alicia", "Pedro", "Carmen", "Andrea", "Cristina", "Julio","Patricia" };
    int edades[] = { 14, 15, 13, 15, 16, 12, 16, 14, 13 };
-
+    String Poblacion[]={"2000","3000","4500","2000","3000","4500","70000"};
    ArrayList<Persona> lista = new ArrayList<Persona>();
 
    // Llena la lista
